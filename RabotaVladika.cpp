@@ -10,5 +10,5 @@ int main()
 	cin >> a;
 	cout << "Second num: ";
 	cin >> b;
-	cout << "Sum:" << a+b << endl;
+	cout << "Ymnozh:" << a*b << endl;
 }
