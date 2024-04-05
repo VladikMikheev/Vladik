@@ -11,4 +11,5 @@ int main()
 	cout << "Second num: ";
 	cin >> b;
 	cout << "Sum:" << a+b << endl;
+	cout<<"Raznost:"<<a-b<<endl;
 }
